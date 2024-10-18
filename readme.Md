@@ -1,4 +1,4 @@
-# ANiL's Software Development Solutions
+# SHIVA's Software Development Solutions
 
 Welcome to the repository for ANiL's Software Development Solutions. This project is an ideal web development exercise for beginners, featuring a landing page that demonstrates fundamental HTML and CSS skills.
 
@@ -59,19 +59,5 @@ Feel free to fork the repository and contribute. To submit changes, please creat
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any inquiries, please reach out to:
-- **Phone**: +91 9100833767
-- **Email**: anilvjitit@gmail.com
 
-## Social Media
-
-Follow us on:
-- [Facebook](https://www.facebook.com/ANIL.RACHAMALLA.143/)
-- [Instagram](https://www.instagram.com/urz_anil/)
-- [LinkedIn](https://www.linkedin.com/in/anilvjit/)
-- [X](https://x.com/urz_anil)
-- [GitHub](https://github.com/urz-anil)
-
-© 2024 ANiL's Software Development Solutions
